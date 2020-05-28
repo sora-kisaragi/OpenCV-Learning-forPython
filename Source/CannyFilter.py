@@ -5,7 +5,7 @@ img = cv2.imread("Photo/lean.png")
 # CannyFilterを適用
 img2 = cv2.Canny(img, 30, 200)
 
-# ネガポジ反転
+# ネガポジ反転 今回の画像は必要ない
 # img2 = 256 - img2
 
 # ファイルに保存
