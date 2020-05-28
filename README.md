@@ -1,7 +1,7 @@
 # OpenCV-Learning-forPython
-OpenCVとPythonの両方を学習
-主にOpenCVの使い方を学習するためのリポジトリ
-
+OpenCVとPythonの両方を学習  
+主にOpenCVの使い方を学習するためのリポジトリ  
+自分用
 # 最終目標
 野菜を撮影し、値段を割り当て、家計簿を自動作成。
 
