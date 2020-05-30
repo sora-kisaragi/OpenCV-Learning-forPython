@@ -33,3 +33,8 @@ pip install --upgrade imutils
 
 いきなりLinux環境を用意したりDockerを覚えたりするよりも  
 手元にあるwindowsPCのVSCodeのほうがよっぽど使いやすい
+
+
+# 参考文献
+https://qiita.com/oozzZZZZ/items/1e68a7572bc5736d474e  
+https://qiita.com/nonbiri15/items/f6910a993457a1862632  
